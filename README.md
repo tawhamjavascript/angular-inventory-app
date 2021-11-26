@@ -1,4 +1,5 @@
 # InventoryApp
+Link para acesso da aplicação: https://inventory-app-khaki.vercel.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
